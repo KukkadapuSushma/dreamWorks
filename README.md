@@ -2,7 +2,7 @@
 
 To have a look at this animation follow the steps :
 
-1. Have python 27 version downloaded and set environment variables (if windows)
+1. Have python2.7 version downloaded and set environment variables (if windows)
 2. Go to Command prompt and enter this dreamWorks folder :
     > cd dreamWorks
 3. Next enter Code+Resources folder
